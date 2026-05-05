@@ -1,6 +1,6 @@
 # Order Matching Engine
 
-> ⚠️ Project đang trong giai đoạn xây dựng (Phase 1). README đầy đủ sẽ hoàn thiện ở Task 21.
+> ⚠️ Project đang trong giai đoạn xây dựng. README đầy đủ sẽ hoàn thiện khi xong.
 
 In-memory limit order book matching engine viết bằng **core Java 17+** (no framework), giao tiếp với UI qua **WebSocket / JSON**.
 
