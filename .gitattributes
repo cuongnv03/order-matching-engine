@@ -1,0 +1,16 @@
+# Default: auto-detect text vs binary, normalize to LF in repo
+* text=auto eol=lf
+
+# Shell scripts must keep LF (executed on Linux CI)
+gradlew text eol=lf
+*.sh text eol=lf
+
+# Windows scripts keep CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary files
+*.jar binary
+*.png binary
+*.jpg binary
+*.ico binary
