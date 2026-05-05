@@ -57,3 +57,7 @@ desktop.ini
 # --- Benchmarks output ---
 jmh-result.json
 jmh-result-*.json
+
+WORKFLOW.md
+PROJECT_2_ORDER_MATCHING_ENGINE.md
+DECISIONS.md
