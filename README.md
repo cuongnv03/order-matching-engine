@@ -1,10 +1,5 @@
 # Order Matching Engine
-
-<<<<<<< HEAD
 > ⚠️ README đầy đủ sẽ hoàn thiện khi xong.
-=======
-> ⚠️ README đầy đủ sẽ hoàn thiện khi xong
->>>>>>> d36c225cc271f108a107aac6b20225283ce40887
 
 In-memory limit order book matching engine viết bằng **core Java 17+** (no framework), giao tiếp với UI qua **WebSocket / JSON**.
 
